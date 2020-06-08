@@ -1,0 +1,6 @@
+{
+    "name": "Deploy to Amazon ECS",
+    "description": "Preferred method for deploying to AWS",
+    "iconName": "aws",
+    "categories": null
+}
